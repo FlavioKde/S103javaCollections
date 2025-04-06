@@ -1,8 +1,10 @@
 Java Collections and Object-Oriented Programming (OOP) Exercises
+
 📄 Description - Exercise Statement
 This repository contains various exercises to strengthen skills in Java Collections and Object-Oriented Programming (OOP). The tasks focus on understanding and implementing Java Collections like ArrayList, HashSet, and HashMap, as well as applying OOP principles such as inheritance, interfaces, and abstraction.
 
 💻 Technologies Used
+
 Java 17+: For developing the solutions.
 
 Eclipse/IntelliJ IDEA: Recommended Integrated Development Environments (IDE).
@@ -157,6 +159,7 @@ Example Output:
 ___Name___   ___Surname___    ___DNI___
 John         Smith            12345678A
 Mary         Johnson          23456789B
+
 🏆 Objectives
 Familiarize yourself with Java Collections to effectively use them in future implementations.
 
